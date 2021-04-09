@@ -96,6 +96,7 @@ let multas = [
     Multa("Transportar en el mismo vehículo y al mismo tiempo personas y sustancias peligrosas como explosivos, tóxicos, radiactivos, combustibles no autorizados etc.", "D"),
     Multa("Conducir un vehículo que, sin la debida autorización, se destine a un servicio diferente de aquel para el cual tiene licencia de tránsito. ", "D"),
     Multa("En caso de transportar carga con peso superior al autorizado el vehículo será inmovilizado y el exceso deberá ser transbordado.", "D"),
+    Multa("Prueba", "D"),
    
 ]
 
